@@ -1,0 +1,29 @@
+img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  display: inline-block;
+  background-size: cover;
+}
+/*body
+{
+ background-image: url("floor.png");
+}*/
+.floor {
+  background-image: url("floor.png");
+}
+.wall {
+  background-image: url("brickwall.png");
+}
+.pizza {
+  background-image: url("pizza.png");
+}
+.players {
+  background-image: url("player.png");
+}
+.pizzaplayer {
+  background-image: url("playerpizza.png");
+}
+.mony {
+  background-image: url("mony.png");
+}
